@@ -120,7 +120,7 @@ app.post("/comment", authMiddleware, asyncHandler(async (req, res) => {
 
     return res.status(201).json({
         message: "Comment created",
-        comment: comm
+        comm
     });
 
 }));

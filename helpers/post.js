@@ -13,10 +13,11 @@ const createPost = async (title, body, author, tags) => {
     return post;
 }
 
-const findPosts = async identifier => {
-    return await Posts.find(identifier).select("title body tags author createdAt");
-}
-
+const findPosts = async (identifier) => {
+  return await Posts.find(identifier)
+    .populate("author", "username") 
+    .select("title body tags author createdAt");
+};
 const updatePost = async (postId, updates, postAuthor) => {
     const { title, body, tags } = updates;
     const cleanUpdates = { title, body, tags };

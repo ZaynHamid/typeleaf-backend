@@ -1,0 +1,43 @@
+[2026-04-12 00:25:01] info: Listening on Port 5000
+[2026-04-12 00:26:26] info: POST - /login
+[2026-04-12 00:26:27] error: Invalid credentials
+[2026-04-12 00:26:34] info: POST - /login
+[2026-04-12 00:26:35] info: GET - /me
+[2026-04-12 00:26:35] info: GET - /save
+[2026-04-12 00:26:35] info: GET - /me
+[2026-04-12 00:26:35] info: GET - /post?author=69d6c1bdcbc5049f1f845c3c
+[2026-04-12 00:26:35] info: GET - /save
+[2026-04-12 00:26:35] info: GET - /post?id=69d80948325e8e69871edef9
+[2026-04-12 00:26:35] info: GET - /post?author=69d6c1bdcbc5049f1f845c3c
+[2026-04-12 00:26:36] info: GET - /post?id=69d80948325e8e69871edef9
+[2026-04-12 00:26:46] info: GET - /post
+[2026-04-12 00:26:46] info: GET - /post
+[2026-04-12 00:26:53] info: GET - /post?id=69cd5983bae65de4654d6ab9
+[2026-04-12 00:26:53] info: GET - /comment/69cd5983bae65de4654d6ab9
+[2026-04-12 00:26:53] info: GET - /likes/69cd5983bae65de4654d6ab9
+[2026-04-12 00:26:53] info: GET - /post?id=69cd5983bae65de4654d6ab9
+[2026-04-12 00:26:54] info: GET - /likes/69cd5983bae65de4654d6ab9
+[2026-04-12 00:26:54] info: GET - /comment/69cd5983bae65de4654d6ab9
+[2026-04-12 00:27:02] info: POST - /comment
+[2026-04-12 00:27:14] info: POST - /comment
+[2026-04-12 00:29:16] info: GET - /post?id=69cd5983bae65de4654d6ab9
+[2026-04-12 00:29:16] info: GET - /comment/69cd5983bae65de4654d6ab9
+[2026-04-12 00:29:16] info: GET - /likes/69cd5983bae65de4654d6ab9
+[2026-04-12 00:29:20] info: GET - /post?id=69cd5983bae65de4654d6ab9
+[2026-04-12 00:29:20] info: GET - /comment/69cd5983bae65de4654d6ab9
+[2026-04-12 00:29:20] info: GET - /likes/69cd5983bae65de4654d6ab9
+[2026-04-12 00:30:06] info: POST - /comment
+[2026-04-12 00:37:10] info: Listening on Port 5000
+[2026-04-12 00:37:21] info: GET - /post?id=69cd5983bae65de4654d6ab9
+[2026-04-12 00:37:21] info: GET - /comment/69cd5983bae65de4654d6ab9
+[2026-04-12 00:37:21] info: GET - /likes/69cd5983bae65de4654d6ab9
+[2026-04-12 00:37:29] info: POST - /comment
+[2026-04-12 00:37:40] info: POST - /comment
+[2026-04-12 00:41:08] info: GET - /post
+[2026-04-12 00:41:12] info: GET - /post?id=69da9e34b3e7e22e4b314310
+[2026-04-12 00:41:12] info: GET - /comment/69da9e34b3e7e22e4b314310
+[2026-04-12 00:41:12] info: GET - /likes/69da9e34b3e7e22e4b314310
+[2026-04-12 00:41:12] info: GET - /post?id=69da9e34b3e7e22e4b314310
+[2026-04-12 00:41:13] info: GET - /comment/69da9e34b3e7e22e4b314310
+[2026-04-12 00:41:13] info: GET - /likes/69da9e34b3e7e22e4b314310
+[2026-04-12 00:41:20] info: POST - /comment
