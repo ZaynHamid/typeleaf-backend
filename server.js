@@ -190,4 +190,8 @@ app.delete("/unsave/:postId", authMiddleware, asyncHandler(async (req, res) => {
 
 app.use(errorHandler);
 
-app.listen(process.env.PORT || 5000, () => logger.info(`Listening on Port ${process.env.PORT || 5000}`));
+const PORT = process.env.PORT || 5000;
+
+app.listen(PORT, "0.0.0.0", () => {
+    logger.info(`Listening on Port ${PORT}`);
+});
